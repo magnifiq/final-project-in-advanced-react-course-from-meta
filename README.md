@@ -1,2 +1,9 @@
 # final-project-in-advanced-react-course-from-meta
-The final project of Advanced React course that is offered by Meta
+
+# The final assignment was required to finish Advanced React course that is a part of the Meta Front-End Developer Professional Certificate
+
+--The necessarry requirements for this project you can find in INSTRUCTIONS.md
+
+--The project was released in 01/02/2023
+
+
